@@ -94,6 +94,22 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 - Melhorar a documentação
 - Enviar pull requests
 
+## 🙏 Agradecimentos
+
+Agradeço especialmente ao [FullStack Club](https://fullstackclub.com.br/) e toda sua equipe pelo excelente curso e suporte que possibilitaram o desenvolvimento deste projeto. O conhecimento e as práticas aprendidas foram fundamentais para criar esta aplicação educacional.
+
+- Mentoria de qualidade
+- Material didático excepcional
+- Comunidade engajada
+- Suporte contínuo
+- Projetos práticos
+
+Siga o FullStack Club:
+
+- [Instagram](https://www.instagram.com/fullstackclub)
+- [YouTube](https://www.youtube.com/@FullStackClub)
+- [LinkedIn](https://www.linkedin.com/company/fullstackclub)
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
