@@ -30,7 +30,7 @@ Um projeto educacional desenvolvido com Next.js para explicar os conceitos funda
 1. Clone o repositório:
 
 ```bash
-git clone [url-do-repositório]
+git clone [https://github.com/Brunoxd23/Fundamentos_Internet.git]
 ```
 
 2. Instale as dependências:
