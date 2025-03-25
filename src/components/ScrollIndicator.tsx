@@ -39,9 +39,9 @@ const ScrollIndicator = () => {
       {showScrollDown && (
         <button
           onClick={scrollToBottom}
-          className="fixed right-6 bottom-20 z-20 bg-purple-600/80 text-white p-3 rounded-full 
-            hover:bg-purple-500 transition-all duration-300 backdrop-blur-sm
-            animate-bounce shadow-lg shadow-purple-500/20"
+          className="fixed right-6 bottom-20 z-20 bg-rose-500/80 text-white p-3 rounded-full 
+            hover:bg-rose-400 transition-all duration-300 backdrop-blur-sm
+            animate-bounce shadow-lg shadow-rose-500/20"
           aria-label="Rolar para baixo"
         >
           <svg
@@ -63,9 +63,9 @@ const ScrollIndicator = () => {
       {showScrollUp && (
         <button
           onClick={scrollToTop}
-          className="fixed right-6 bottom-6 z-20 bg-purple-600/80 text-white p-3 rounded-full 
-            hover:bg-purple-500 transition-all duration-300 backdrop-blur-sm
-            shadow-lg shadow-purple-500/20"
+          className="fixed right-6 bottom-6 z-20 bg-rose-500/80 text-white p-3 rounded-full 
+            hover:bg-rose-400 transition-all duration-300 backdrop-blur-sm
+            shadow-lg shadow-rose-500/20"
           aria-label="Rolar para cima"
         >
           <svg

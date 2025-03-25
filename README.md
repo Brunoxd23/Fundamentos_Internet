@@ -72,6 +72,7 @@ Este projeto visa oferecer uma experiência educacional moderna e interativa par
 ### Página Inicial
 
 ![Página Inicial](/public/images/home-screen.png)
+![Página Inicial](/public/images/home-screen-footer.png)
 
 ### Tema Dark com Efeitos
 
