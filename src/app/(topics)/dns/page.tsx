@@ -1,11 +1,11 @@
 import React from "react";
 import TopicLayout from "@/components/TopicLayout";
-import ScrollIndicator from "@/components/ScrollIndicator";
+import PageScrollIndicator from "@/components/PageScrollIndicator";
 
 export default function DNSPage() {
   return (
     <TopicLayout currentPath="/dns">
-      <div className="space-y-6 max-w-5xl mx-auto">
+      <div className="space-y-8 max-w-5xl mx-auto pb-20">
         <h1 className="text-4xl font-bold mb-8 text-rose-100">
           DNS e Navegação
         </h1>
@@ -78,7 +78,7 @@ export default function DNSPage() {
             </div>
           </div>
         </section>
-        <ScrollIndicator />
+        <PageScrollIndicator />
       </div>
     </TopicLayout>
   );

@@ -107,9 +107,9 @@ Agradeço especialmente ao [FullStack Club](https://fullstackclub.com.br/) e tod
 
 Siga o FullStack Club:
 
-- [Instagram](https://www.instagram.com/fullstackclub)
-- [YouTube](https://www.youtube.com/@FullStackClub)
-- [LinkedIn](https://www.linkedin.com/company/fullstackclub)
+- [Instagram](https://www.instagram.com/fullstackclubeducacao/)
+- [YouTube](https://www.youtube.com/@dicasparadevs)
+- [LinkedIn](https://www.linkedin.com/school/full-stack-club/posts/?feedView=all)
 
 ## 📄 Licença
 

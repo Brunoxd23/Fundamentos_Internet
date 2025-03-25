@@ -1,6 +1,6 @@
 import React from "react";
-import ScrollIndicator from "@/components/ScrollIndicator";
 import TopicLayout from "@/components/TopicLayout";
+import PageScrollIndicator from "@/components/PageScrollIndicator";
 
 export default function HistoryPage() {
   const historyItems = [
@@ -26,7 +26,7 @@ export default function HistoryPage() {
 
   return (
     <TopicLayout currentPath="/history">
-      <div className="space-y-8">
+      <div className="space-y-8 max-w-5xl mx-auto pb-20">
         <h1 className="text-4xl font-bold mb-8 text-rose-100">
           História da Internet
         </h1>
@@ -53,7 +53,7 @@ export default function HistoryPage() {
             </section>
           ))}
         </div>
-        <ScrollIndicator />
+        <PageScrollIndicator />
       </div>
     </TopicLayout>
   );
